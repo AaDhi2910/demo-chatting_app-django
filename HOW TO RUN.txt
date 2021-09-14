@@ -1,0 +1,9 @@
+Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
+
+pip install -r requirements.txt
+python manage.py runserver
+
+
+admin panel:
+username -> Admin
+password -> Chatting123
